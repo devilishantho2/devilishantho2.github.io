@@ -1,0 +1,9 @@
+.title {
+	color: black;
+	text-align: center;
+  background-color: blue;
+}
+
+body {
+	background-attachment: fixed;
+}
